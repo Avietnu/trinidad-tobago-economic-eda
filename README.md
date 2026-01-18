@@ -1,7 +1,7 @@
 # Economic Trends in Trinidad and Tobago (2001-2024)
 
 ## Project Overview
-This project delves key economic and labour market indicators in Trinidad and Tobago between 2001 and 2024. This analysis focuses primarily on GDP growth, inflation, and unemployment datasets and indicators to identify long-term trends, volatility and cross-indicator relationships.
+This project analyses key economic and labour market indicators in Trinidad and Tobago between 2001 and 2024. This analysis focuses primarily on GDP growth, inflation, and unemployment datasets and indicators to identify long-term trends, volatility and relationships between economic factors.
 
 ## Objective
 To assist Trinidad and Tobago's local businesses understand employment and economic trends and make informed business decisions by examining how economic shocks affect output, prices and employment over time.
